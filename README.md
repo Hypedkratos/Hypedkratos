@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hypedkratos.
 - 👀 I’m interested in coding and collaborations.
-- 🌱 I’m currently learning various programming languages 
+- 🌱 I’m a javascript developer
 - �
 - 📫 How to reach me Email-shashinand8651@gmail.com Phone-6202957821
 
