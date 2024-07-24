@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hypedkratos.
+- 👋 Hi, I’m Shashi.
 - 👀 I’m interested in coding and collaborations.
 - 🌱 I’m a javascript developer 
 - �
