@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shashi.
+- 👋 Hi, I’m @Shashi, aka 'hypedkratos'.
 - 👀 I’m interested in coding and collaborations.
-- 🌱 I’m a javascript developer 
+- 🌱 What I do: development (MERN, React Native, Ionic,etc), training (Linux, cloud, computer and server hardware)
 - �
-- 📫 How to reach me Email-shashianand8651@gmail.com Phone-6202957821
+- 📫 Reach out to me Email-shashianand8651@gmail.com
 
 <!---
 Hypedkratos/Hypedkratos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
